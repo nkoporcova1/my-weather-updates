@@ -17,6 +17,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.3.0",
+          "buildVersion": "20261011221209",
+          "date": "2026-10-11",
+          "localizedDescription": "More reliable: never stuck loading, refreshes when reopened, real GPS for the locate button, offline weather for every saved city, no double morning notification. Moon icons at night.",
+          "downloadURL": "https://github.com/nkoporcova1/my-weather-updates/releases/download/v1.3.0/MyWeather.ipa",
+          "size": 3120948,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "1.2.0",
           "buildVersion": "20261011214440",
           "date": "2026-10-11",
@@ -44,11 +53,11 @@
           "NSLocationWhenInUseUsageDescription": "My Weather uses your location to show the forecast for where you actually are, and to switch cities automatically as you travel."
         }
       },
-      "version": "1.2.0",
+      "version": "1.3.0",
       "versionDate": "2026-10-11",
-      "versionDescription": "Small square widgets for UV, rain, wind, humidity, air and sunrise/sunset on the Home Screen.",
-      "downloadURL": "https://github.com/nkoporcova1/my-weather-updates/releases/download/v1.2.0/MyWeather.ipa",
-      "size": 3112180
+      "versionDescription": "More reliable: never stuck loading, refreshes when reopened, real GPS for the locate button, offline weather for every saved city, no double morning notification. Moon icons at night.",
+      "downloadURL": "https://github.com/nkoporcova1/my-weather-updates/releases/download/v1.3.0/MyWeather.ipa",
+      "size": 3120948
     }
   ],
   "news": []
