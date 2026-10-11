@@ -15,11 +15,31 @@
       "iconURL": "https://raw.githubusercontent.com/nkoporcova1/my-weather-updates/main/icon.png",
       "tintColor": "#1C1C1E",
       "category": "utilities",
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.1.0",
+          "buildVersion": "20261011141354",
+          "date": "2026-10-11",
+          "localizedDescription": "New Lock Screen widgets (UV, rain, wind, humidity, air, sunrise/sunset), easier-to-read hourly graph, and in-app update notices.",
+          "downloadURL": "https://github.com/nkoporcova1/my-weather-updates/releases/download/v1.1.0/MyWeather.ipa",
+          "size": 3079928,
+          "minOSVersion": "14.0"
+        }
+      ],
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      }
+        "entitlements": [
+          "com.apple.security.application-groups",
+          "com.apple.security.network.client"
+        ],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "My Weather uses your location to show the forecast for where you actually are, and to switch cities automatically as you travel."
+        }
+      },
+      "version": "1.1.0",
+      "versionDate": "2026-10-11",
+      "versionDescription": "New Lock Screen widgets (UV, rain, wind, humidity, air, sunrise/sunset), easier-to-read hourly graph, and in-app update notices.",
+      "downloadURL": "https://github.com/nkoporcova1/my-weather-updates/releases/download/v1.1.0/MyWeather.ipa",
+      "size": 3079928
     }
   ],
   "news": []
