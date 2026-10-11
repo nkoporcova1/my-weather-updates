@@ -17,6 +17,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.2.0",
+          "buildVersion": "20261011214440",
+          "date": "2026-10-11",
+          "localizedDescription": "Small square widgets for UV, rain, wind, humidity, air and sunrise/sunset on the Home Screen.",
+          "downloadURL": "https://github.com/nkoporcova1/my-weather-updates/releases/download/v1.2.0/MyWeather.ipa",
+          "size": 3112180,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "1.1.0",
           "buildVersion": "20261011141354",
           "date": "2026-10-11",
@@ -35,11 +44,11 @@
           "NSLocationWhenInUseUsageDescription": "My Weather uses your location to show the forecast for where you actually are, and to switch cities automatically as you travel."
         }
       },
-      "version": "1.1.0",
+      "version": "1.2.0",
       "versionDate": "2026-10-11",
-      "versionDescription": "New Lock Screen widgets (UV, rain, wind, humidity, air, sunrise/sunset), easier-to-read hourly graph, and in-app update notices.",
-      "downloadURL": "https://github.com/nkoporcova1/my-weather-updates/releases/download/v1.1.0/MyWeather.ipa",
-      "size": 3079928
+      "versionDescription": "Small square widgets for UV, rain, wind, humidity, air and sunrise/sunset on the Home Screen.",
+      "downloadURL": "https://github.com/nkoporcova1/my-weather-updates/releases/download/v1.2.0/MyWeather.ipa",
+      "size": 3112180
     }
   ],
   "news": []
