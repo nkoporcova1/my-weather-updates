@@ -1,0 +1,26 @@
+{
+  "name": "My Weather",
+  "identifier": "com.ninakoporcova.weather-app.source",
+  "subtitle": "Updates for My Weather",
+  "description": "Updates for the My Weather app.",
+  "iconURL": "https://raw.githubusercontent.com/nkoporcova1/my-weather-updates/main/icon.png",
+  "website": "https://github.com/nkoporcova1/my-weather-updates",
+  "apps": [
+    {
+      "name": "My Weather",
+      "bundleIdentifier": "com.ninakoporcova.weather-app",
+      "developerName": "nkoporcova1",
+      "subtitle": "Minimal weather, with widgets.",
+      "localizedDescription": "A minimal weather app with Lock Screen and Home Screen widgets, rain alerts, SHMÚ warnings and a morning briefing. In English and Slovak.",
+      "iconURL": "https://raw.githubusercontent.com/nkoporcova1/my-weather-updates/main/icon.png",
+      "tintColor": "#1C1C1E",
+      "category": "utilities",
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
