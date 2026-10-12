@@ -17,6 +17,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.4.0",
+          "buildVersion": "20261012213317",
+          "date": "2026-10-12",
+          "localizedDescription": "New: rain warnings for your walk to and from school, from your EduPage timetable. The app is rebuilt in Swift — same look, 6× smaller.",
+          "downloadURL": "https://github.com/nkoporcova1/my-weather-updates/releases/download/v1.4.0/MyWeather.ipa",
+          "size": 496885,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.3.2",
           "buildVersion": "20261011222125",
           "date": "2026-10-11",
@@ -64,18 +73,18 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "com.apple.security.application-groups",
-          "com.apple.security.network.client"
+          "com.apple.security.application-groups"
         ],
         "privacy": {
-          "NSLocationWhenInUseUsageDescription": "My Weather uses your location to show the forecast for where you actually are, and to switch cities automatically as you travel."
+          "NSLocationWhenInUseUsageDescription": "My Weather uses your location to show the forecast for where you actually are, and to switch cities automatically as you travel.",
+          "NSCalendarsFullAccessUsageDescription": "My Weather reads your \"Rozvrh EduPage\" timetable to warn you about rain on your way to and from school. It never changes your calendars."
         }
       },
-      "version": "1.3.2",
-      "versionDate": "2026-10-11",
-      "versionDescription": "Security: safer handling of place names, stricter app security policy, encrypted SHMÚ warnings.",
-      "downloadURL": "https://github.com/nkoporcova1/my-weather-updates/releases/download/v1.3.2/MyWeather.ipa",
-      "size": 3202515
+      "version": "1.4.0",
+      "versionDate": "2026-10-12",
+      "versionDescription": "New: rain warnings for your walk to and from school, from your EduPage timetable. The app is rebuilt in Swift — same look, 6× smaller.",
+      "downloadURL": "https://github.com/nkoporcova1/my-weather-updates/releases/download/v1.4.0/MyWeather.ipa",
+      "size": 496885
     }
   ],
   "news": []
