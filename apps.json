@@ -17,6 +17,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.4.2",
+          "buildVersion": "20261013161224",
+          "date": "2026-10-13",
+          "localizedDescription": "New look for the Lock Screen widgets: thin rings, rolling numbers and the sun's path across the sky.",
+          "downloadURL": "https://github.com/nkoporcova1/my-weather-updates/releases/download/v1.4.2/MyWeather.ipa",
+          "size": 511505,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.4.1",
           "buildVersion": "20261013155536",
           "date": "2026-10-13",
@@ -89,11 +98,11 @@
           "NSCalendarsFullAccessUsageDescription": "My Weather reads your \"Rozvrh EduPage\" timetable to warn you about rain on your way to and from school. It never changes your calendars."
         }
       },
-      "version": "1.4.1",
+      "version": "1.4.2",
       "versionDate": "2026-10-13",
-      "versionDescription": "Fix: Settings opens again.",
-      "downloadURL": "https://github.com/nkoporcova1/my-weather-updates/releases/download/v1.4.1/MyWeather.ipa",
-      "size": 469073
+      "versionDescription": "New look for the Lock Screen widgets: thin rings, rolling numbers and the sun's path across the sky.",
+      "downloadURL": "https://github.com/nkoporcova1/my-weather-updates/releases/download/v1.4.2/MyWeather.ipa",
+      "size": 511505
     }
   ],
   "news": []
